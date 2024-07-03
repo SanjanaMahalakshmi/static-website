@@ -1,0 +1,50 @@
+.para1{
+    
+    margin: 20px 40px 30px 40px;
+    padding: 20px 40px 20px 40px;
+    font-size: xx-large;
+}
+.h1{
+    margin: 20px 40px;
+    padding: 20px 40px 20px 40px;
+    font-size: xx-large;
+    text-align: right;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    margin: 20px;
+    font-size: x-large;
+}
+.button1
+{
+    color: green;
+    border-radius: 12px;
+    font-size: medium;
+}
+
+
+.button2
+{
+    color: white;
+    background-color: darkgreen;
+    border-radius: 12px;
+    font-size: medium;
+}
+td{
+    font-size: larger;
+    padding: 10px;
+    margin: 40px;
+}
+.tab1
+{
+    margin: 20px 40px 30px 40px;
+    padding: 20px 40px 20px 40px; 
+}
+
+
+
+
+
